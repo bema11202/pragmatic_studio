@@ -1,4 +1,5 @@
 require_relative 'die'
+
 class Game
 
   attr_reader :title
